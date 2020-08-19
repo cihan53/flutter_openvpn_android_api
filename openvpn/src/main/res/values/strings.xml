@@ -98,7 +98,7 @@
     <string name="state_screenoff">VPN paused - screen off</string>
     <string name="cannotparsecert">Cannot display certificate information</string>
     <string name="permission_icon_app">Icon of app trying to use OpenVPN for Android</string>
-    <string name="show_password">Show password1</string>
+    <string name="show_password">Show password12</string>
     <string name="keyChainAccessError">KeyChain Access error: %s</string>
     <string name="unhandled_exception">Unhandled exception: %1$s\n\n%2$s</string>
     <string name="unhandled_exception_context">%3$s: %1$s\n\n%2$s</string>
